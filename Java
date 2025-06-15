@@ -1,1 +1,6 @@
 public class HelloWorld 
+{
+Public static void main(Stringars[])
+{system.out.println("hello World");
+}
+}
